@@ -1,6 +1,6 @@
 # LOGIN NODE.JS
 
-Ete é um exemplo de um sistema de login/register em Node.js com teste unitário,
+Este é um exemplo de um sistema de login/register em Node.js com teste unitário,
 validação de dados de entrada, salvando usuários em um banco de dados MySQL e
 usando bibliotecas adicionais para torná-lo mais seguro e escalável.
 
