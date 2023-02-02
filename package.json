@@ -1,0 +1,20 @@
+{
+  "name": "demo-login",
+  "version": "1.0.0",
+  "description": "sistema de login node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.0",
+    "mysql2": "^3.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
